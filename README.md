@@ -1,0 +1,2 @@
+# FINANCIAL-STATEMENT-ANALYSIS-OF-TATA-STEEL-LTD.-AND-JSW-STEEL-LTD.
+This project presents a detailed comparative analysis of the financial statements of Tata Steel Ltd. and JSW Steel Ltd. over five years (2019–2023). It evaluates key financial ratios including liquidity, solvency, and profitability to assess the financial performance, stability, and strategic position of both companies in the Indian steel industry.
